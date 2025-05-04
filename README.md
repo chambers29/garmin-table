@@ -1,0 +1,2 @@
+# garmin-table
+run statistics
